@@ -41,7 +41,7 @@ pipeline {
     	always {
     		echo "build terminé"
     	}
-    	sucess {
+    	success {
     		echo "sucess de toutes les étapes"
     	}
     	failure {
